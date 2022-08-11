@@ -1,0 +1,2 @@
+# test-automa-o
+Variacçes
